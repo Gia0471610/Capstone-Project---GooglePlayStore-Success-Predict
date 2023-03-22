@@ -8,7 +8,7 @@ EM-DAT is used by governments, researchers to identify patterns and trends in di
 ## Objective or Concept
 The objective of EM-DAT is to provide comprehensive, accurate, and reliable information on disasters that have occurred worldwide. The database includes a wide range of information, such as the type of disaster, location, number of fatalities and injuries, economic damages, and more.
 ## Use Case
-* Disaster risk reduction planning:EM-DAT provides data on past disasters that can be used to assess risk and plan for future disasters.Governments or other organizations can use this data to prioritize disaster risk reduction activities.
+* Disaster risk reduction planning:EM-DAT provides data on past disasters that can be used to assess risk and plan for future disasters. Governments or other organizations can use this data to prioritize disaster risk reduction activities.
 * Education and awareness: EM-DAT's data can be used to educate people about disasters, their impacts, and how to prepare for them. 
 * Researchers can also use this data to evaluate the effectiveness of disaster management policies and practices.
 ## Project Plan
