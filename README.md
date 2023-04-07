@@ -1,7 +1,7 @@
 <h1 align="center">Google Play Store Data Analysis</h1>
 
 <p align="center">
-  <img src="image.jpg" alt="Image" width="100" height="100">
+  <img src="googlePlayimages.png" alt="Image" width="100" height="100">
   <h1>Google Play Store Data Analysis</h1>
 </p>
 
