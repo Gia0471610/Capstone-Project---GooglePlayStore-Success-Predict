@@ -1,34 +1,50 @@
-# Capstone Project: Analyzing Natural Disasters Worldwide
-This project aims to analyze natural disasters worldwide since 1990 using the EM-DAT: The International Disaster Database. The EM-DAT database is maintained by the Centre for Research on the Epidemiology of Disasters (CRED) and contains data on the occurrence and effects of thousands of disasters around the world.
+<h1 align="center">Google Play Store Data Analysis</h1>
+
+<p align="center">
+  <img src="image.jpg" alt="Image" width="100" height="100">
+  <h1>Google Play Store Data Analysis</h1>
+</p>
+
+This project aims to analyze 10k of web-scraped Play Store apps data for analyzing the Android market. The dataset is from 'Google Play Store Apps' from Kaggle. This data analysis aims to be useful for app developers to see how certain aspects of their app will affect downloads and ratings and to help stakeholders can make informed decisions to optimize their apps' performance, enhance user experience, and achieve their goals in the Google Play Store.
 ## Data Sources
-- [EM-DAT - Country Profiles - Humanitarian Data Exchange (humdata.org)](https://data.humdata.org/dataset/emdat-country-profiles)
-- [EM-DAT | The international disasters database (emdat.be)](https://www.emdat.be/)
-## Use
-EM-DAT is used by governments and researchers to identify patterns and trends in disaster occurrence, analyze the impacts of disasters on different populations and regions, and develop policies and strategies to mitigate the effects of disasters.
-## Objective or Concept
-The objective of EM-DAT is to provide comprehensive, accurate, and reliable information on disasters that have occurred worldwide. The database includes a wide range of information, such as the type of disaster, location, number of fatalities and injuries, economic damages, and more.
-## Use Case
-* Disaster risk reduction planning: EM-DAT provides data on past disasters that can be used to assess risk and plan for future disasters. Governments or other organizations can use this data to prioritize disaster risk reduction activities.
-* Education and awareness: EM-DAT's data can be used to educate people about disasters, their impacts, and how to prepare for them. 
-* Researchers can also use this data to evaluate the effectiveness of disaster management policies and practices.
-## Technical Scope
-### 1. Data Cleaning and Processing. 
-Create one fact table and six dimension tables. The dimension tables will include the following:
-* Year (century, year duration).
-* Country (capital, continent, longitude, latitude etc.).
-* Disaster group.
-* Disaster subgroup.
-* Disaster type.
-* Disaster subtype.
-### 2. Data Analysis and Reporting.
-Choose statistical models, train the models, test and validate the models and predictions based on specific criteria, such as disaster type,   location, or time period to analyze data.
-Create visualizations including graphs, maps, and charts to effectively communicate the insights gathered from the data.
-### 3. Technologies Used
-* SQL
-* SSIS
-* Python
-* pandas
-* scikit-learn
-* Matplotlib
-* seaborn
-* Power BI
+- [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+## Objective:
+1. :wrench: Data Cleaning and Preprocessing
+Utilize Python's data manipulation libraries such as Pandas or NumPy to clean, preprocess, and transform the extracted data into a structured format that is suitable for analysis.
+
+2. :bar_chart: Exploratory Data Analysis (EDA)
+Employ Python's data visualization libraries such as Matplotlib, Seaborn, or Plotly to perform EDA, including generating descriptive statistics, visualizing app metrics, identifying patterns, and uncovering insights from the data.
+
+3. :chart_with_upwards_trend: Market Trend Analysis
+Utilize Python's data analysis tools to identify market trends, such as popular app categories or emerging markets, to inform app development, marketing strategies, and business decisions.
+
+## Problem Statement:
+
+This repository contains data analysis on the "googleplaystore.csv" file, aiming to solve the following problems:
+
+* **Problem 1: Distribution of App Ratings, Reviews, and Installs**
+
+To analyze the distribution of app ratings, reviews, and install numbers, and gain insights into the overall satisfaction of users with different apps. This analysis could help app developers understand user preferences and make informed decisions about app improvements.
+
+* **Problem 2: Distribution of Apps across Categories and Genres**
+
+To analyze the distribution of apps across different categories and genres, identify popular categories or genres, and gain insights into market trends. This analysis could help app developers make strategic decisions about app development and marketing strategies.
+
+* **Problem 3: Analysis of App Pricing Strategies**
+
+To analyze the distribution of app prices, identify trends in app pricing strategies, and gain insights into the impact of app pricing on app performance. This analysis could help app developers determine optimal pricing strategies for their apps and improve revenue generation.
+
+## Use Case: 
+
+The goal of this analysis is to gain insights into various aspects of app performance and user preferences, which can inform strategic decision-making for app developers. There are three Key Benefits of the Analysis:
+
+:key: Provides valuable insights into user preferences and app performance, helping app developers make informed decisions for app improvements.
+
+:key: Identifies market trends and popular categories/genres, guiding strategic app development and marketing strategies.
+
+:key: Helps optimize app pricing strategies for revenue generation and improved app performance.
+
+## Scope: 
+
+
+
