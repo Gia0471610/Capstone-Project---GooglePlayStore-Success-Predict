@@ -7,7 +7,7 @@
 
 This project aims to analyze 10k of web-scraped Play Store apps data for analyzing the Android market. The dataset is from 'Google Play Store Apps' from Kaggle. This data analysis aims to be useful for app developers to see how certain aspects of their app will affect downloads and ratings and to help stakeholders can make informed decisions to optimize their apps' performance, enhance user experience, and achieve their goals in the Google Play Store.
 ## Data Sources
-- [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+- [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)   from Kaggle website
 ## Objective:
 :wrench: Data Cleaning and Preprocessing
 Utilize Python's data manipulation libraries such as Pandas or NumPy to clean, preprocess, and transform the extracted data into a structured format that is suitable for analysis.
