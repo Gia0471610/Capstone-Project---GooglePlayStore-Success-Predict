@@ -52,3 +52,6 @@ The goal of this analysis is to gain insights into various aspects of app perfor
 4. Model Evaluation: Include comparing the model's performance
 5. predictions: 
 6. Documentation and Reporting: 
+
+## Video
+https://youtu.be/nEA5A1fp4GM
