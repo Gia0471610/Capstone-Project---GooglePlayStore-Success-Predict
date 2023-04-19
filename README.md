@@ -50,8 +50,8 @@ The goal of this analysis is to gain insights into various aspects of app perfor
 2. Data Exploration and Preparation(EDA): Performing exploratory data analysis to understand the data. This involve data visualization, data cleaning, and data transformation.
 3. Model Selection and Development: This involve model training, model tuning, and model validation tasks to optimize the model's performance.
 4. Model Evaluation: Include comparing the model's performance
-5. predictions: 
-6. Documentation and Reporting: 
+5. predictions.
+6. Documentation and Reporting.
 
 ## Video:
 https://youtu.be/8B2om6X6t8k
